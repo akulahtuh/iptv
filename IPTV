@@ -1,0 +1,53 @@
+#EXTM3U 
+
+
+==============================================================================================================================================================
+TV FROM MALAYSIA
+==============================================================================================================================================================
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",OKEY TV
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/5.png",BERITA RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b1096000_slENG.m3u8?id=5
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/PDR.png?raw=true",RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b796000_slENG.m3u8
+
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",ASTRO AWANI
+https://live-b2.cf.dmcdn.net/sec2(FPiaveR4fPRVs2vBm6l76qe1v0BQ6O1gcK08BD1tNpuCXKlpVu3M2N6kgO1H0A3w64ISUGA81VWoGMfDng9zInNbGIVI3Uvdr61nXlHBfdTbK2IOJTMC9lFNjFExUg8g)/cloud/3/x8dbnq6/s/live-480.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",TV3
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8 
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png",DRAMA SANGAT
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8 
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png",NT7 (DIDIK TV KPM) 
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png",8TV 
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8 
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png",TV9 
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/TVALHIJRAH.png?raw=true",TV ALHIJRAH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",AWESOME TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
