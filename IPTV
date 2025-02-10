@@ -1,53 +1,99 @@
 #EXTM3U 
 
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/oqkvkp.png",TV1
+https://live.mana2.my/Tv1/index.m3u8?auth_key=1739248371-c886c52b961547aabb74347150443fa1-0-0eb946f649c12ecc48f88a52ecf3c55d&token=1739248371-c886c52b961547aabb74347150443fa1-0-0eb946f649c12ecc48f88a52ecf3c55d
 
-==============================================================================================================================================================
-TV FROM MALAYSIA
-==============================================================================================================================================================
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/trokhs.png",TV2
+https://live.mana2.my/Tv2/index.m3u8?auth_key=1739248419-0c40e668d8a84ac18c6bf26747eb6692-0-0c4228b82b3af7b6b87c652a5de393d9&token=1739248419-0c40e668d8a84ac18c6bf26747eb6692-0-0c4228b82b3af7b6b87c652a5de393d9
 
-#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/esdfqp.png",TV ALHIJRAH
+https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1739248460-604bd889d7a9499d851a98d2efe7e00b-0-bcba2f0a40e3b43d95c730273431f912&token=1739248460-604bd889d7a9499d851a98d2efe7e00b-0-bcba2f0a40e3b43d95c730273431f912
 
-#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg",TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/soxsng.png",SUKAN RTM
+https://live.mana2.my/SukanRtm/index.m3u8?auth_key=1739248489-9157f650348e4ec09b6f405f6acf3996-0-12dcf98b932cd5b160a0041089f68950&token=1739248489-9157f650348e4ec09b6f405f6acf3996-0-12dcf98b932cd5b160a0041089f68950
 
-#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",OKEY TV
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/wwtede.png",BERITA RTM
+https://live.mana2.my/BeritaRtm/tracks-v3a1/2025/02/10/23/35/10-05000.ts?token=1739248518-e318354dab72460f8c8ec34eafc2880e-0-3444aa03fdeaac050d04fe9eb13cc87e&auth_key=1739248518-e318354dab72460f8c8ec34eafc2880e-0-a62c63bff618e4cfaecb12247ea38544
 
-#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/5.png",BERITA RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b1096000_slENG.m3u8?id=5
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/filzbh.jpeg",TVS
+https://live.mana2.my/TvS/index.m3u8?auth_key=1739248546-b91dd50d54b14103854f5c037b5ddeb1-0-8959298e6115b8bdaac907468510b460&token=1739248546-b91dd50d54b14103854f5c037b5ddeb1-0-8959298e6115b8bdaac907468510b460
 
-#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/nchdce.png",TV6
+https://live.mana2.my/Tv6/index.m3u8?auth_key=1739248577-2ea53f0bb131404bb35bf6547933d3e6-0-1ce28ac2c796af936f4769cba4a1be05&token=1739248577-2ea53f0bb131404bb35bf6547933d3e6-0-1ce28ac2c796af936f4769cba4a1be05
 
-#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/PDR.png?raw=true",RTM ASEAN
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b796000_slENG.m3u8
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/lzrjmv.png",TV OKEY
+https://live.mana2.my/TvOkey/index.m3u8?auth_key=1739248610-0db7dce6d8f145b8b1592b292a8bad63-0-434ebd030b6c65c72e8d75065cb40a77&token=1739248610-0db7dce6d8f145b8b1592b292a8bad63-0-434ebd030b6c65c72e8d75065cb40a77
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/ivnvsj.png",BERNAMA
+https://live.mana2.my/Bernama/index.m3u8?auth_key=1739248646-bbb0b2f125cf413e8f3406b47b8e00bc-0-0c56a9655cffe9eeec3e0d11907ecb83&token=1739248646-bbb0b2f125cf413e8f3406b47b8e00bc-0-0c56a9655cffe9eeec3e0d11907ecb83
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/utgwdm.png",SUKE TV
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1739248675-962bea066dc64319a1aafdde41a86eb9-0-a0d9f7329c36fa6dbb8e4e3f869aefb8&token=1739248675-962bea066dc64319a1aafdde41a86eb9-0-a0d9f7329c36fa6dbb8e4e3f869aefb8
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/emwijp.png",SELANGOR TV
+https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1739248704-c61e802acd1f4c0f8f7b701dbe54f7c6-0-0f85e1a137ef5ac7972db6905aa464ae&token=1739248704-c61e802acd1f4c0f8f7b701dbe54f7c6-0-0f85e1a137ef5ac7972db6905aa464ae
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/ymaugh.png",TV IKIM
+https://live.mana2.my/TvIkim/index.m3u8?auth_key=1739248737-0ee9c5dd56ff42d48c0a8aaddee4f567-0-f5f6766fbb444ad4f7167a48eade39ef&token=1739248737-0ee9c5dd56ff42d48c0a8aaddee4f567-0-f5f6766fbb444ad4f7167a48eade39ef
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/afl-tv.png",AFL TV
+https://live.mana2.my/AFL/index.m3u8?auth_key=1739248774-ffc2c7dfe08c471c93285cd39188ba13-0-cd6e097621adc3487d4452baaf5133c9&token=1739248774-ffc2c7dfe08c471c93285cd39188ba13-0-cd6e097621adc3487d4452baaf5133c9
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/ecixuc.png",MYTV
+https://live.mana2.my/MytvPromo/tracks-v2a1/mono.m3u8?token=1739248804-212ad2e87d884012beca4e7b4baba7eb-0-2f1d22bbb69202dbbb78f31a090c8493&auth_key=1739248804-212ad2e87d884012beca4e7b4baba7eb-0-587193fae43358adc54d0f6c456a78d3
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/gxjxvu.png",CNA
+https://live.mana2.my/CNA/index.m3u8?auth_key=1739248868-a480b244ebb54f67bf267bfea819d1d0-0-f91000fb0c55493edf722e34b79b6adb&token=1739248868-a480b244ebb54f67bf267bfea819d1d0-0-f91000fb0c55493edf722e34b79b6adb
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/sea-today.png",SEA TODAY
+https://live.mana2.my/SeaToday/index.m3u8?auth_key=1739248902-19b4223cdc5a43a5a965d2e91f1b40bc-0-10c31818691a33a089cc8a834e444f36&token=1739248902-19b4223cdc5a43a5a965d2e91f1b40bc-0-10c31818691a33a089cc8a834e444f36
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/arirang.png",ARIRANG
+https://live.mana2.my/Arirang/tracks-v2a1/mono.m3u8?token=1739248931-ade041eb730c4b298872115538d68c44-0-fc07c1c14b86795d66877ab79f025c5f&auth_key=1739248931-ade041eb730c4b298872115538d68c44-0-a5486a66af52753745610d31213bdde1
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/ezrlcd.jpeg",TAIWANPLUS
+https://live.mana2.my/TaiwanPlus/index.m3u8?auth_key=1739248962-04ba5f628a8b472db8dca23de715fcc8-0-2c83e8e3a4baf1b0bbade0b0f36f8ffa&token=1739248962-04ba5f628a8b472db8dca23de715fcc8-0-2c83e8e3a4baf1b0bbade0b0f36f8ffa
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xrcrnj.png",NHK WORLD
+https://live.mana2.my/NhkWorld/index.m3u8?auth_key=1739248994-38382dd7bdeb44f1b3b6249a1a63580d-0-e2ce9917fe188adb4d5d58c5d039025c&token=1739248994-38382dd7bdeb44f1b3b6249a1a63580d-0-e2ce9917fe188adb4d5d58c5d039025c
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/pftlum.jpeg",DW
+https://live.mana2.my/DW/index.m3u8?auth_key=1739249024-d8fa9606193d4d3e9f44640208551937-0-72277cf698928c19cb127eb8514cc848&token=1739249024-d8fa9606193d4d3e9f44640208551937-0-72277cf698928c19cb127eb8514cc848
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/jjwxot.png",TVRI WORLD
+https://live.mana2.my/TvriWorld/index.m3u8?auth_key=1739249080-e2c7f5a5dae646e19fb7aaf9b214573c-0-0a22d0b7a19f1ca97652e81cf416f347&token=1739249080-e2c7f5a5dae646e19fb7aaf9b214573c-0-0a22d0b7a19f1ca97652e81cf416f347
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",TV3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/809/165/video-cif-stream-4-156530803558867.m4f
+#https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=10e3a45c128-209fad43-5706-42f7-b29b-151446a5c3e7&category=all&mm_sp=
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png",ASTRO AWANI
+https://live-b2.cf.dmcdn.net/sec2(IhAx_vTpYRO3wenj468p6LOpuN9aTusNwwO8nk_6rZFIu_rIB68i_ybbKvWJH0IxCU_2mzNDgrzWYmZdTBI4TS3uON2pr0VYDqd6VXj9Q3aRAN2yg90sN6OpCDcL6mPv)/cloud/3/x8dbnq6/s/live-480.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb1.png",RTB SUKMAINDERA
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png",TRANSTV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",
 
 
-#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",ASTRO AWANI
-https://live-b2.cf.dmcdn.net/sec2(FPiaveR4fPRVs2vBm6l76qe1v0BQ6O1gcK08BD1tNpuCXKlpVu3M2N6kgO1H0A3w64ISUGA81VWoGMfDng9zInNbGIVI3Uvdr61nXlHBfdTbK2IOJTMC9lFNjFExUg8g)/cloud/3/x8dbnq6/s/live-480.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",TV3
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8 
 
-#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png",DRAMA SANGAT
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8 
 
-#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png",NT7 (DIDIK TV KPM) 
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png",8TV 
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8 
 
-#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png",TV9 
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/TVALHIJRAH.png?raw=true",TV ALHIJRAH
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd
 
-#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",AWESOME TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211
-https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
+
+
+
+
+
