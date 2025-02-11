@@ -81,11 +81,12 @@ https://hlslive-origin01-ipsb.cdn01.rambla.be/main/Vry6vX/dl_720p.m3u8
 #EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",LOVE NATURE 
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png",TV3 BACKUP
-https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_720.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=10b3c32e34-854bac08-c343-45a2-9064-8380e3627b6f&category=all&mm_sp
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png",
 
-#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",HBO
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
+
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e/variant.m3u8?x-plex-token=-y2858UBBs4sHyYxtbMM&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=p_a0a172ce-451d-49d7-b51c-bee86b8d3597&x-plex-provider-streaming-start=1739253645&url=3fcd7c1c4870e83f9ae0af6a5f20e08d-8f33a952579a5cc9238ebbc00f40f987540c45b10b79a1efe2e4a3ad8c78f7af2842d29c2c2cced668cba172b90a61ca78a9b3b36d7c95f6b35f21263226f579ae0fca8198f8ab8e4d82e293c58806cfa20f0aaeb2448fae9ff7abc3eb93fc85b6bfa7adeac1eba710a3aec11e85c9dabfc6da4385f4ab505e6d5c13c20b37eb3e0f6ca3a905491cbf833eadcb3670ce8f6cf0a758454dfa660b21a821f7f15dc89112718e7e5800a16446dcaa620190
 
 #EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",
 
