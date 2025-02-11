@@ -78,6 +78,15 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_
 #EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/RTMAsean.png",RTM ASEAN
 https://hlslive-origin01-ipsb.cdn01.rambla.be/main/Vry6vX/dl_720p.m3u8
 
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",LOVE NATURE 
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",
+
 #EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",
 
 #EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",
