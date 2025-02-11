@@ -81,9 +81,11 @@ https://hlslive-origin01-ipsb.cdn01.rambla.be/main/Vry6vX/dl_720p.m3u8
 #EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",LOVE NATURE 
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png",TV3 BACKUP
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_720.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=10b3c32e34-854bac08-c343-45a2-9064-8380e3627b6f&category=all&mm_sp
 
-#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",HBO
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
 
 #EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",
 
