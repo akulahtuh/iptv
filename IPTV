@@ -13,7 +13,7 @@ https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1739248460-604bd889d7a9499d
 https://live.mana2.my/SukanRtm/index.m3u8?auth_key=1739248489-9157f650348e4ec09b6f405f6acf3996-0-12dcf98b932cd5b160a0041089f68950&token=1739248489-9157f650348e4ec09b6f405f6acf3996-0-12dcf98b932cd5b160a0041089f68950
 
 #EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/wwtede.png",BERITA RTM
-https://live.mana2.my/BeritaRtm/tracks-v3a1/2025/02/10/23/35/10-05000.ts?token=1739248518-e318354dab72460f8c8ec34eafc2880e-0-3444aa03fdeaac050d04fe9eb13cc87e&auth_key=1739248518-e318354dab72460f8c8ec34eafc2880e-0-a62c63bff618e4cfaecb12247ea38544
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
 
 #EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/filzbh.jpeg",TVS
 https://live.mana2.my/TvS/index.m3u8?auth_key=1739248546-b91dd50d54b14103854f5c037b5ddeb1-0-8959298e6115b8bdaac907468510b460&token=1739248546-b91dd50d54b14103854f5c037b5ddeb1-0-8959298e6115b8bdaac907468510b460
@@ -64,11 +64,10 @@ https://live.mana2.my/DW/index.m3u8?auth_key=1739249024-d8fa9606193d4d3e9f446402
 https://live.mana2.my/TvriWorld/index.m3u8?auth_key=1739249080-e2c7f5a5dae646e19fb7aaf9b214573c-0-0a22d0b7a19f1ca97652e81cf416f347&token=1739249080-e2c7f5a5dae646e19fb7aaf9b214573c-0-0a22d0b7a19f1ca97652e81cf416f347
 
 #EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",TV3
-https://linearjitp-playback.astro.com.my/dash-wv/linear/809/165/video-cif-stream-4-156530803558867.m4f
-#https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=10e3a45c128-209fad43-5706-42f7-b29b-151446a5c3e7&category=all&mm_sp=
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=10e3a45c128-209fad43-5706-42f7-b29b-151446a5c3e7&category=all&mm_sp=
 
 #EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png",ASTRO AWANI
-https://live-b2.cf.dmcdn.net/sec2(IhAx_vTpYRO3wenj468p6LOpuN9aTusNwwO8nk_6rZFIu_rIB68i_ybbKvWJH0IxCU_2mzNDgrzWYmZdTBI4TS3uON2pr0VYDqd6VXj9Q3aRAN2yg90sN6OpCDcL6mPv)/cloud/3/x8dbnq6/s/live-480.m3u8
+https://live-b2.cf.dmcdn.net/sec2(DF2oMm6G4cxV_WKC0mx3JSZWhXNtIDi2zLOtO-4XTBKU6iCUmmyjjWffcc7jNmEzaD2izq6nUpI7GijC4cloHejSZMWZ-pKxszWU_9bRJTACU3coSbiaE83Fjzp85PoJ)/cloud/3/x8dbnq6/s/live-720.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb1.png",RTB SUKMAINDERA
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2
@@ -76,7 +75,8 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id
 #EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",
+#EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/RTMAsean.png",RTM ASEAN
+https://hlslive-origin01-ipsb.cdn01.rambla.be/main/Vry6vX/dl_720p.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA IPTV" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",
 
