@@ -75,14 +75,29 @@ https://live.mana2.my/AFL/index.m3u8?auth_key=1739364379-d8665b38ec864f81be1afc4
 
 #EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",
 
+===========================================================================================================
+MOVIES
+===========================================================================================================
+#MOVIESPHERE
+#EXTINF:-1 group-title="MOVIES" group-logo="https://github.com/akulahtuh/iptv/blob/main/android-icon-3078.png?raw=true" tvg-logo="https://deadline.com/wp-content/uploads/2024/06/MovieSphere.jpg",MOVIESPHERE
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",
+#ELECTRIC NOW
+#EXTINF:-1 group-title="MOVIES" group-logo="https://github.com/akulahtuh/iptv/blob/main/android-icon-3078.png?raw=true" tvg-logo="https://play-lh.googleusercontent.com/MnlEIfY5tSN_GuG-NejHaWNq4PD66IHMxWBteO_vZ3l9hLd1p7zAD21ZRFwqy0igvg",ELECTRIC NOW
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
 
 
+#EXTINF:-1 group-title="MOVIES" group-logo="https://github.com/akulahtuh/iptv/blob/main/android-icon-3078.png?raw=true" tvg-logo=" ",
 
+#EXTINF:-1 group-title="MOVIES" group-logo="https://github.com/akulahtuh/iptv/blob/main/android-icon-3078.png?raw=true" tvg-logo=" ",
 
+#EXTINF:-1 group-title="MOVIES" group-logo="https://github.com/akulahtuh/iptv/blob/main/android-icon-3078.png?raw=true" tvg-logo=" ",
 
+#EXTINF:-1 group-title="MOVIES" group-logo="https://github.com/akulahtuh/iptv/blob/main/android-icon-3078.png?raw=true" tvg-logo=" ",
 
+#EXTINF:-1 group-title="MOVIES" group-logo="https://github.com/akulahtuh/iptv/blob/main/android-icon-3078.png?raw=true" tvg-logo=" ",
+
+#EXTINF:-1 group-title="MOVIES" group-logo="https://github.com/akulahtuh/iptv/blob/main/android-icon-3078.png?raw=true" tvg-logo=" ",
 
 
 
@@ -180,7 +195,7 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 group-title="IPTV MOVIES" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8
 
 #EXTINF:-1 group-title="IPTV MOVIES" group-logo="https://github.com/akulahtuh/iptv/blob/main/android%20icon.png?raw=true" tvg-logo=" ",HBO FAMILY
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
